@@ -1,3 +1,5 @@
+style{
+a:text-decoration:none;}
 <h1 align="center">Hi 👋, I'm Mikaela</h1>
 <h3 align="center">Pribadi penuh rasa ingin tahu yang tak pernah puas dengan status quo.</h3>
 
