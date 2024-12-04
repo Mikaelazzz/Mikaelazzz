@@ -12,8 +12,8 @@
 
 ### Streak
 <div align="center"
-![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical&hide_border=true)
 </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical&hide_border=true)
 
 
 #### View
