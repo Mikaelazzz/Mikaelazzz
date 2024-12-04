@@ -13,7 +13,7 @@
 ### Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical&hide_border=true)
 
-#### socials.get('views')
+#### View
 ![](https://komarev.com/ghpvc/?username=Mikaelazzz&color=brightgreen)
 
 ### Languages and Tools
