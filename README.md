@@ -11,7 +11,10 @@
 ![statistics.body](https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave)
 
 ### Streak
+<div align="center"
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical&hide_border=true)
+</div>
+
 
 #### View
 ![](https://komarev.com/ghpvc/?username=Mikaelazzz&color=brightgreen)
