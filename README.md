@@ -15,7 +15,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical&hide_border=true)
 
 
-### Snake Animation
+### Snake 
 ![Snake animation](https://raw.githubusercontent.com/Mikaelazzz/Mikaelazzz/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### Languages and Tools
