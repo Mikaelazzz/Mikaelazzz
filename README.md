@@ -16,10 +16,7 @@
 
 
 ### Snake Animation
-![Snake animation](https://github.com/Mikaelazzz/Mikaelazzz/blob/output/github-contribution-grid-snake.svg)
-
-#### GIF Version
-![Snake animation](https://github.com/Mikaelazzz/Mikaelazzz/blob/manual-run-output/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
+![Snake animation](https://raw.githubusercontent.com/Mikaelazzz/Mikaelazzz/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### Languages and Tools
 <p>
