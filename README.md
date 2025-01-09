@@ -12,7 +12,7 @@
 ![statistics.body](https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave)
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazzz&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mikaelazz&theme=radical)](https://git.io/streak-stats)
 
 ### Snake 
 ![Snake animation](https://raw.githubusercontent.com/Mikaelazzz/Mikaelazzz/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
