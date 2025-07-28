@@ -6,7 +6,7 @@
 <!-- <h3>Connect with me:</h3> --> 
 <p align="center">   
 </p> 
-<!-- <section align="center" -->
+<!-- <section align="center" --> 
     
 ### Statistic  
 ![statistics.body](https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave)
