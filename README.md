@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Mikaelazzz&color=brightgreen)
   
 <h3>Hi 👋, I'm Mikaela</h3>   
-  
+   
 <!-- <h3>Connect with me:</h3> --> 
 <p align="center">   
 </p> 
