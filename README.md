@@ -9,7 +9,7 @@
 <!-- <section align="center" -->    
      
 ### Statistic    
-![statistics.body](https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave)  
+![statistics.body](https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave)   
 
 ### Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelazzz&layout=compact&theme=radical)
