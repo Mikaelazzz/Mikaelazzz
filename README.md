@@ -15,7 +15,7 @@ Passionate web developer with expertise in modern web technologies. I love creat
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelazzz&layout=compact&theme=radical&langs_count=8"/>
 </div> 
-
+ 
 ---
 
 ## 🔥 Streak Stats
