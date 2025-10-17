@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Mikaelazzz?style=for-the-badge&color=blue)](https://github.com/Mikaelazzz) 
 ![GitHub stars](https://img.shields.io/github/stars/Mikaelazzz?style=for-the-badge&color=yellow)
  
-## 🚀 About Me 
+## 🚀 About Me  
 Passionate web developer with expertise in modern web technologies. I love creating intuitive user experiences and clean, efficient code.
 
 ---
