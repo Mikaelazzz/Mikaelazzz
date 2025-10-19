@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mikaelazzz?style=for-the-badge&color=yellow)
  
 ## 🚀 About Me  
-Passionate web developer with expertise in modern web technologies. I love creating intuitive user experiences and clean, efficient code.
+Passionate web developer with expertise in modern web technologies. I love creating intuitive user experiences and clean, efficient code. 
 
 ---
 
