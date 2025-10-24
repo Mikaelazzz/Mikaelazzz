@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mikaela  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mikaelazzz&style=for-the-badge&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/Mikaelazzz?style=for-the-badge&color=blue)](https://github.com/Mikaelazzz) 
+[![GitHub followers](https://img.shields.io/github/followers/Mikaelazzz?style=for-the-badge&color=blue)](https://github.com/Mikaelazzz)  
 ![GitHub stars](https://img.shields.io/github/stars/Mikaelazzz?style=for-the-badge&color=yellow)
  
 ## 🚀 About Me  
