@@ -33,7 +33,7 @@ As a 5th-semester student majoring in Computer Science (Teknik Informatika), I a
 </div>
 
 
-## 💻 Tech Stack
+## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,php,js,react,python,sqlite,postgresql,github,git,bootstrap,tailwind,nextjs,figma)
 
 
