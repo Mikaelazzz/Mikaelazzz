@@ -23,9 +23,8 @@ As a 5th-semester student majoring in Computer Science (Teknik Informatika), I a
 
 ## Streak Stats
 <div align="center">
-<img src="https://github-readme-streak-stats-pi-six.vercel.app?user=Mikaelazzz&theme=radical&hide_border=true&locale=id" alt="GitHub Streak" />
+<img src="[https://github-readme-streak-stats-pi-six.vercel.app?user=Mikaelazzz&theme=radical&hide_border=true&locale=id](https://github-readme-streak-stats-pi-six.vercel.app/?user=Mikaelazzz&theme=radical&locale=id&date_format=j%20M%5B%20Y%5D)" alt="GitHub Streak" />
 </div>
-
 
 ## Contribution Snake
 <div align="center">
