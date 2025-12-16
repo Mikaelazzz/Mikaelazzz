@@ -23,7 +23,7 @@ As a 5th-semester student majoring in Computer Science (Teknik Informatika), I a
 
 ## Streak Stats
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-six.vercel.app?user=Mikaelazzz&theme=radical&hide_border=true&locale=id" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-pi-six.vercel.app?user=Mikaelazzz&theme=radical&hide_border=true&locale=id" alt="GitHub Streak" />
 </div>
 
 
