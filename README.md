@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Mikaela      
+# 👋 Hi, I'm Mikaela       
   
 ![Profile views](https://komarev.com/ghpvc/?username=Mikaelazzz&style=for-the-badge&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/Mikaelazzz?style=for-the-badge&color=blue)](https://github.com/Mikaelazzz)   ![GitHub stars](https://img.shields.io/github/stars/Mikaelazzz?style=for-the-badge&color=yellow) 
 <!-- ## 🌐 Socials: -->  
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincenttz_) 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-rizki-suwarno/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincentius-johanes/) 
 
  
 ## About Me  
