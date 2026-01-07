@@ -15,16 +15,12 @@ As a 5th-semester student majoring in Computer Science (Teknik Informatika), I a
 
 ## GitHub Stats
 
-<div align="center">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelazzz&layout=compact&theme=radical&langs_count=8"/>
-</div> 
+<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikaelazzz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaelazzz&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" /> </a> 
+</div>
 
 
 ## Streak Stats
-<div align="center">
-<img src="[https://github-readme-streak-stats-pi-six.vercel.app?user=Mikaelazzz&theme=radical&hide_border=true&locale=id](https://github-readme-streak-stats-pi-six.vercel.app/?user=Mikaelazzz&theme=radical&locale=id&date_format=j%20M%5B%20Y%5D)" alt="GitHub Streak" />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikaelazzz&theme=radical&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </div>
 
 ## Contribution Snake
 <div align="center">
