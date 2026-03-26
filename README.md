@@ -9,7 +9,7 @@
 
  
 ## About Me  
-As a 5th-semester student majoring in Computer Science (Teknik Informatika), I am passionate about **front-end web and software engineer** as well as UI/UX design. I constantly explore new tools and trends to enhance my skills and enjoy working on projects that challenge me to grow as a developer and designer. Let's connect and collaborate!
+As a 6th-semester student majoring in Computer Science (Teknik Informatika), I am passionate about **front-end web and software engineer** as well as UI/UX design. I constantly explore new tools and trends to enhance my skills and enjoy working on projects that challenge me to grow as a developer and designer. Let's connect and collaborate!
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
